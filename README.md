@@ -1,5 +1,5 @@
 # MVVM-challenge-kavak  
 
-screenshots  
+screenshots 
 
-[alt text](https://i.ibb.co/W2sssTT/Screenshot-at-Mar-16-02-42-50.png)
+![alt text](https://i.ibb.co/W2sssTT/Screenshot-at-Mar-16-02-42-50.png?raw=true)
