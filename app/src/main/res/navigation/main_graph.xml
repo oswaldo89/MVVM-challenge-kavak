@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/gnomeListFragment">
+
+    <fragment
+        android:id="@+id/gnomeListFragment"
+        android:name="com.app.oswaldokavak.ui.gnome_list.GnomeListFragment"
+        android:label="fragment_gnome_list"
+        tools:layout="@layout/fragment_gnome_list" >
+        <action
+            android:id="@+id/action_gnomeListFragment_to_gnomeDetailFragment"
+            app:destination="@id/gnomeDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/gnomeDetailFragment"
+        android:name="com.app.oswaldokavak.ui.gnome_details.GnomeDetailFragment"
+        android:label="fragment_gnome_detail"
+        tools:layout="@layout/fragment_gnome_detail" />
+</navigation>
