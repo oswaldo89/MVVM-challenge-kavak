@@ -2,4 +2,4 @@
 
 screenshots  
 
-![test](https://i.ibb.co/W2sssTT/Screenshot-at-Mar-16-02-42-50.png | width=48)
+[alt text](https://i.ibb.co/W2sssTT/Screenshot-at-Mar-16-02-42-50.png)
